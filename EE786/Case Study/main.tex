@@ -1,0 +1,40 @@
+\documentclass{Academic}
+\usepackage{bm}
+% \usepackage{stix}
+\usepackage{soul}
+\usepackage{float}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{wrapfig}
+% \usepackage{fontspec}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{mathtools}
+% \usepackage{subcaption}
+
+\begin{document}
+% TC:ignore
+\myabstract{\include{sections/abstract}}
+\renewcommand{\myTitle}{Health Effects of Wearable Devices}
+\renewcommand{\MyAuthor}{Aaron John Sabu}
+\renewcommand{\MyRollNumber}{170070050}
+\renewcommand{\CaseTopic}{Will fitness trackers (health watch/smart watch) change the health lifestyle?}
+\maketitle
+\onehalfspacing
+%TC:endignore
+\input{sections/introduction}
+\input{sections/methods}
+\input{sections/results}
+\input{sections/conclusion}
+%TC:ignore
+% \clearpage\input{sections/plots}
+% \clearpage
+
+\emergencystretch 3em
+\hfuzz 1px
+\singlespacing
+\printbibliography[heading=bibnumbered]
+%TC:endignore
+\end{document}

@@ -1,0 +1,21 @@
+Hi, I’m Aaron
+
+and I’m Kriti
+
+and we welcome you to our oral presentation, one of the concluding ones of the course, on
+
+China's Digital Yuan: What Lies Ahead for the State's Digital Currency?
+
+A thousand years ago, when money meant coins, China invented paper currency. Now the Chinese government is minting cash digitally in a re-imagination of money that could shake the pillars of American economic power. The digital yuan is a central bank digital currency issued by China's central bank, the People's Bank of China. It is the first digital currency to be issued by a major economy and is undergoing public testing as of April 2021. Yan Xiao, the project lead for digital trade at the World Economic Forum, says, “The use of cash is decreasing. Eventually cash will be replaced by something in digital format. That is one of the big drivers behind this.”
+
+So how does this digital yuan work?
+The two things that we need to figure about digital renminbi are to chalk out its distribution and how it will be spent. Distribution will be conducted via a two-tier system where the PBOC will distribute the digital yuan to commercial banks who will, in turn, be responsible for getting the currency in the hands of consumers. This could include services to allow consumers to exchange their coins and cash for digital yuan.
+However, it is a little unclear how users might actually hold and spend digital yuan when it is rolled out across the nation. For the most part, mobile payment in China is done using QR codes through the Alipay or WeChat apps. Xiao says it is likely commercial banks could integrate similar functionality into their apps and that Alipay and WeChat Pay could have a section dedicated to digital yuan. Meanwhile, smartphone makers could also create digital yuan wallets for their devices
+
+The People's Bank of China began research on the digital currency in 2014. In October 2019, the PBOC announced that a digital renminbi would be released after years of preparation. testing began in April 2020 in four cities around China to improve the currency's functionality. It could be transferred to bank accounts or used directly with certain merchants and could be controlled via apps on one's smartphone. As of April 2021, more than 100,000 have downloaded such apps, which are developed by six state-owned banks.
+
+Speaking of its advantages, the digital yuan is designed to move instantaneously in both domestic and international transactions. In an article, a deputy governor of the PBOC said cash and coins are not easy to use, they’re easy to counterfeit and because of their anonymity, could be used for illicit purposes. Moreover, the technology even enables transactions to take place between two offline devices. 
+
+While the Chinese economy is thrilled to welcome the digital renminbi, competing central banks of the world are rattled to realize its effect on their currencies.  While it will be used in China at first, the country plans to globalize it soon. As all things with China go, this project is aimed at establishing itself in the global economic race and it is without a doubt that the digital yuan is China’s latest attempt to eliminate the American power over the global economy. Several competitors also fear that, as an attempt at de-dollarization, the digital renminbi will be a weapon to centralize the power of the People’s Bank of China.
+
+The short and medium-term implications of this development are more than clear: we can prepare for a scenario with digital dollars and euros sooner rather than later. More than 60 countries have initiated moves to study the issuance of such currencies, which implies that, for a while, they will coexist not only with their physical equivalents on paper but also with the growing use of cryptocurrencies as they progressively stabilize their value.
